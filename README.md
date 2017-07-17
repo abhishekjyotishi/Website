@@ -4,7 +4,7 @@ Hii I am Abhishek ... This is my Profile Website
 <head>
 	<meta charset="utf-8">
 	
-	<meta name="" content="">
+	
 </head>
 <body>
 <a href="Aboutme.html">Please click here to visit Website</a>
