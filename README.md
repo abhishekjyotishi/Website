@@ -7,6 +7,6 @@ Hii I am Abhishek ... This is my Profile Website
 	
 </head>
 <body>
-<a href="index.html">Please click here to visit Website</a>
+<a href="https://abhishekjyotishi.github.io/Website/index.html">Please click here to visit Website</a>
 </body>
 </html>
