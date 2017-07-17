@@ -1,6 +1,6 @@
 Hii I am Abhishek ... 
 This is my personal website.
-<a href="https://abhishekjyotishi.github.io/Website/index.html">Please click here to visit Website</a>
+<a href="https://abhishekjyotishi.github.io/Website/index.html">Click here to visit Website</a>
 
 
 MIT License
