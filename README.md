@@ -7,6 +7,6 @@ Hii I am Abhishek ... This is my Profile Website
 	
 </head>
 <body>
-<a href="Pages/Home.html">Please click here to visit Website</a>
+<a href="index.html">Please click here to visit Website</a>
 </body>
 </html>
