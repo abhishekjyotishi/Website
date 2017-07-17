@@ -3,7 +3,7 @@ Hii I am Abhishek ... This is my Profile Website
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Abhishek Jyotishi</title>
+	
 	<meta name="" content="">
 </head>
 <body>
